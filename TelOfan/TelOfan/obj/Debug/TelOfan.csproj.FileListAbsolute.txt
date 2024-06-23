@@ -1,0 +1,130 @@
+C:\Users\User\Downloads\TelOfan\TelOfan\obj\Debug\TelOfan.csprojAssemblyReference.cache
+C:\Users\User\Downloads\TelOfan\TelOfan\obj\Debug\TelOfan.Properties.Resources.resources
+C:\Users\User\Downloads\TelOfan\TelOfan\obj\Debug\TelOfan.csproj.GenerateResource.cache
+X:\מגמות תיכון\תכנות\שנה ג\כיתות ד2 ד3\יעלי מירון\פרויקט יעלי מירון\TelOfan\TelOfan\bin\Debug\TelOfan.exe.config
+X:\מגמות תיכון\תכנות\שנה ג\כיתות ד2 ד3\יעלי מירון\פרויקט יעלי מירון\TelOfan\TelOfan\bin\Debug\TelOfan.exe
+X:\מגמות תיכון\תכנות\שנה ג\כיתות ד2 ד3\יעלי מירון\פרויקט יעלי מירון\TelOfan\TelOfan\bin\Debug\TelOfan.pdb
+X:\מגמות תיכון\תכנות\שנה ג\כיתות ד2 ד3\יעלי מירון\פרויקט יעלי מירון\TelOfan\TelOfan\obj\Debug\TelOfan.csproj.AssemblyReference.cache
+X:\מגמות תיכון\תכנות\שנה ג\כיתות ד2 ד3\יעלי מירון\פרויקט יעלי מירון\TelOfan\TelOfan\obj\Debug\TelOfan.Properties.Resources.resources
+X:\מגמות תיכון\תכנות\שנה ג\כיתות ד2 ד3\יעלי מירון\פרויקט יעלי מירון\TelOfan\TelOfan\obj\Debug\TelOfan.csproj.GenerateResource.cache
+X:\מגמות תיכון\תכנות\שנה ג\כיתות ד2 ד3\יעלי מירון\פרויקט יעלי מירון\TelOfan\TelOfan\obj\Debug\TelOfan.csproj.CoreCompileInputs.cache
+X:\מגמות תיכון\תכנות\שנה ג\כיתות ד2 ד3\יעלי מירון\פרויקט יעלי מירון\TelOfan\TelOfan\obj\Debug\TelOfan.exe
+X:\מגמות תיכון\תכנות\שנה ג\כיתות ד2 ד3\יעלי מירון\פרויקט יעלי מירון\TelOfan\TelOfan\obj\Debug\TelOfan.pdb
+C:\Users\User\Downloads\פרויקט יעלי מירון\TelOfan\TelOfan\obj\Debug\TelOfan.csprojAssemblyReference.cache
+C:\Users\User\Downloads\פרויקט יעלי מירון\TelOfan\TelOfan\obj\Debug\TelOfan.Properties.Resources.resources
+C:\Users\User\Downloads\פרויקט יעלי מירון\TelOfan\TelOfan\obj\Debug\TelOfan.csproj.GenerateResource.cache
+C:\Users\User\Downloads\פרויקט יעלי מירון\TelOfan\TelOfan\obj\Debug\TelOfan.exe
+C:\Users\User\Downloads\פרויקט יעלי מירון\TelOfan\TelOfan\obj\Debug\TelOfan.pdb
+C:\Users\User\Downloads\פרויקט יעלי מירון\TelOfan\TelOfan\obj\Debug\TelOfan.GUI.MaimPage.resources
+C:\Users\User\Downloads\פרויקט יעלי מירון\TelOfan\TelOfan\obj\Debug\TelOfan.GUI.FrmWorkers.resources
+C:\Users\User\Downloads\פרויקט יעלי מירון\TelOfan\TelOfan\bin\Debug\DAL\TELOFAN.accdb
+C:\Users\User\Downloads\פרויקט יעלי מירון\TelOfan\TelOfan\bin\Debug\TelOfan.exe.config
+C:\Users\User\Downloads\פרויקט יעלי מירון\TelOfan\TelOfan\bin\Debug\TelOfan.exe
+C:\Users\User\Downloads\פרויקט יעלי מירון\TelOfan\TelOfan\bin\Debug\TelOfan.pdb
+C:\Users\User\Downloads\פרויקט יעלי מירון\TelOfan\TelOfan\obj\Debug\TelOfan.GUI.FrmSubscription.resources
+C:\Users\User\Downloads\פרויקט יעלי מירון\TelOfan\TelOfan\obj\Debug\TelOfan.GUI.FrmRenting.resources
+X:\מגמות תיכון\תכנות\שנה ג\כיתות ד2 ד3\יעלי מירון\פרויקט יעלי מירון\TelOfan\TelOfan\bin\Debug\DAL\TELOFAN.accdb
+X:\מגמות תיכון\תכנות\שנה ג\כיתות ד2 ד3\יעלי מירון\פרויקט יעלי מירון\TelOfan\TelOfan\obj\Debug\TelOfan.GUI.FrmRenting.resources
+X:\מגמות תיכון\תכנות\שנה ג\כיתות ד2 ד3\יעלי מירון\פרויקט יעלי מירון\TelOfan\TelOfan\obj\Debug\TelOfan.GUI.FrmSubscription.resources
+X:\מגמות תיכון\תכנות\שנה ג\כיתות ד2 ד3\יעלי מירון\פרויקט יעלי מירון\TelOfan\TelOfan\obj\Debug\TelOfan.GUI.FrmWorkers.resources
+X:\מגמות תיכון\תכנות\שנה ג\כיתות ד2 ד3\יעלי מירון\פרויקט יעלי מירון\TelOfan\TelOfan\obj\Debug\TelOfan.GUI.MaimPage.resources
+X:\מגמות תיכון\תכנות\שנה ג\כיתות ד2 ד3\יעלי מירון\פרויקט יעלי מירון\TelOfan\TelOfan\obj\Debug\TelOfan.GUI.FrmPayment.resources
+X:\מגמות תיכון\תכנות\שנה ג\כיתות ד2 ד3\יעלי מירון\פרויקט יעלי מירון\TelOfan\TelOfan\obj\Debug\TelOfan.GUI.FrmChooseBicycle.resources
+X:\מגמות תיכון\תכנות\שנה ג\כיתות ד2 ד3\יעלי מירון\פרויקט יעלי מירון\TelOfan\TelOfan\obj\Debug\TelOfan.GUI.FrmAddOrder.resources
+X:\מגמות תיכון\תכנות\שנה ג\כיתות ד2 ד3\יעלי מירון\פרויקט יעלי מירון\TelOfan\TelOfan\obj\Debug\TelOfan.GUI.FrmShowRenting.resources
+C:\Users\My Laptop\Documents\GitHub\Yaeli\פרויקט יעלי מירון\TelOfan\TelOfan\obj\Debug\TelOfan.csprojAssemblyReference.cache
+C:\Users\My Laptop\Documents\GitHub\Yaeli\פרויקט יעלי מירון\TelOfan\TelOfan\obj\Debug\TelOfan.GUI.FrmAddOrder.resources
+C:\Users\My Laptop\Documents\GitHub\Yaeli\פרויקט יעלי מירון\TelOfan\TelOfan\obj\Debug\TelOfan.GUI.FrmChooseBicycle.resources
+C:\Users\My Laptop\Documents\GitHub\Yaeli\פרויקט יעלי מירון\TelOfan\TelOfan\obj\Debug\TelOfan.GUI.FrmPayment.resources
+C:\Users\My Laptop\Documents\GitHub\Yaeli\פרויקט יעלי מירון\TelOfan\TelOfan\obj\Debug\TelOfan.GUI.FrmRenting.resources
+C:\Users\My Laptop\Documents\GitHub\Yaeli\פרויקט יעלי מירון\TelOfan\TelOfan\obj\Debug\TelOfan.GUI.FrmShowRenting.resources
+C:\Users\My Laptop\Documents\GitHub\Yaeli\פרויקט יעלי מירון\TelOfan\TelOfan\obj\Debug\TelOfan.GUI.FrmSubscription.resources
+C:\Users\My Laptop\Documents\GitHub\Yaeli\פרויקט יעלי מירון\TelOfan\TelOfan\obj\Debug\TelOfan.GUI.FrmWorkers.resources
+C:\Users\My Laptop\Documents\GitHub\Yaeli\פרויקט יעלי מירון\TelOfan\TelOfan\obj\Debug\TelOfan.GUI.MaimPage.resources
+C:\Users\My Laptop\Documents\GitHub\Yaeli\פרויקט יעלי מירון\TelOfan\TelOfan\obj\Debug\TelOfan.Properties.Resources.resources
+C:\Users\My Laptop\Documents\GitHub\Yaeli\פרויקט יעלי מירון\TelOfan\TelOfan\obj\Debug\TelOfan.csproj.GenerateResource.cache
+C:\Users\My Laptop\Documents\GitHub\Yaeli\פרויקט יעלי מירון\TelOfan\TelOfan\obj\Debug\TelOfan.csproj.CoreCompileInputs.cache
+C:\Users\My Laptop\Documents\GitHub\Yaeli\פרויקט יעלי מירון\TelOfan\TelOfan\obj\Debug\TelOfan.exe
+C:\Users\My Laptop\Documents\GitHub\Yaeli\פרויקט יעלי מירון\TelOfan\TelOfan\obj\Debug\TelOfan.pdb
+C:\Users\My Laptop\Documents\GitHub\Yaeli\פרויקט יעלי מירון\TelOfan\TelOfan\bin\Debug\DAL\TELOFAN.accdb
+C:\Users\My Laptop\Documents\GitHub\Yaeli\פרויקט יעלי מירון\TelOfan\TelOfan\bin\Debug\TelOfan.exe.config
+C:\Users\My Laptop\Documents\GitHub\Yaeli\פרויקט יעלי מירון\TelOfan\TelOfan\bin\Debug\TelOfan.exe
+C:\Users\My Laptop\Documents\GitHub\Yaeli\פרויקט יעלי מירון\TelOfan\TelOfan\bin\Debug\TelOfan.pdb
+C:\Users\User\Downloads\12032022\TelOfan\TelOfan\bin\Debug\DAL\TELOFAN.accdb
+C:\Users\User\Downloads\12032022\TelOfan\TelOfan\bin\Debug\TelOfan.exe.config
+C:\Users\User\Downloads\12032022\TelOfan\TelOfan\bin\Debug\TelOfan.exe
+C:\Users\User\Downloads\12032022\TelOfan\TelOfan\bin\Debug\TelOfan.pdb
+C:\Users\User\Downloads\12032022\TelOfan\TelOfan\obj\Debug\TelOfan.csprojAssemblyReference.cache
+C:\Users\User\Downloads\12032022\TelOfan\TelOfan\obj\Debug\TelOfan.GUI.FrmAddOrder.resources
+C:\Users\User\Downloads\12032022\TelOfan\TelOfan\obj\Debug\TelOfan.GUI.FrmChooseBicycle.resources
+C:\Users\User\Downloads\12032022\TelOfan\TelOfan\obj\Debug\TelOfan.GUI.FrmPayment.resources
+C:\Users\User\Downloads\12032022\TelOfan\TelOfan\obj\Debug\TelOfan.GUI.FrmRenting.resources
+C:\Users\User\Downloads\12032022\TelOfan\TelOfan\obj\Debug\TelOfan.GUI.FrmShowRenting.resources
+C:\Users\User\Downloads\12032022\TelOfan\TelOfan\obj\Debug\TelOfan.GUI.FrmSubscription.resources
+C:\Users\User\Downloads\12032022\TelOfan\TelOfan\obj\Debug\TelOfan.GUI.FrmWorkers.resources
+C:\Users\User\Downloads\12032022\TelOfan\TelOfan\obj\Debug\TelOfan.GUI.MaimPage.resources
+C:\Users\User\Downloads\12032022\TelOfan\TelOfan\obj\Debug\TelOfan.Properties.Resources.resources
+C:\Users\User\Downloads\12032022\TelOfan\TelOfan\obj\Debug\TelOfan.csproj.GenerateResource.cache
+C:\Users\User\Downloads\12032022\TelOfan\TelOfan\obj\Debug\TelOfan.exe
+C:\Users\User\Downloads\12032022\TelOfan\TelOfan\obj\Debug\TelOfan.pdb
+X:\מגמות תיכון\תכנות\שנה ג\כיתות ד2 ד3\יעלי מירון\230322\TelOfan\TelOfan\bin\Debug\DAL\TELOFAN.accdb
+X:\מגמות תיכון\תכנות\שנה ג\כיתות ד2 ד3\יעלי מירון\230322\TelOfan\TelOfan\bin\Debug\TelOfan.exe.config
+X:\מגמות תיכון\תכנות\שנה ג\כיתות ד2 ד3\יעלי מירון\230322\TelOfan\TelOfan\bin\Debug\TelOfan.exe
+X:\מגמות תיכון\תכנות\שנה ג\כיתות ד2 ד3\יעלי מירון\230322\TelOfan\TelOfan\bin\Debug\TelOfan.pdb
+X:\מגמות תיכון\תכנות\שנה ג\כיתות ד2 ד3\יעלי מירון\230322\TelOfan\TelOfan\obj\Debug\TelOfan.csproj.AssemblyReference.cache
+X:\מגמות תיכון\תכנות\שנה ג\כיתות ד2 ד3\יעלי מירון\230322\TelOfan\TelOfan\obj\Debug\TelOfan.GUI.FrmAddOrder.resources
+X:\מגמות תיכון\תכנות\שנה ג\כיתות ד2 ד3\יעלי מירון\230322\TelOfan\TelOfan\obj\Debug\TelOfan.GUI.FrmChooseBicycle.resources
+X:\מגמות תיכון\תכנות\שנה ג\כיתות ד2 ד3\יעלי מירון\230322\TelOfan\TelOfan\obj\Debug\TelOfan.GUI.FrmPayment.resources
+X:\מגמות תיכון\תכנות\שנה ג\כיתות ד2 ד3\יעלי מירון\230322\TelOfan\TelOfan\obj\Debug\TelOfan.GUI.FrmRenting.resources
+X:\מגמות תיכון\תכנות\שנה ג\כיתות ד2 ד3\יעלי מירון\230322\TelOfan\TelOfan\obj\Debug\TelOfan.GUI.FrmShowRenting.resources
+X:\מגמות תיכון\תכנות\שנה ג\כיתות ד2 ד3\יעלי מירון\230322\TelOfan\TelOfan\obj\Debug\TelOfan.GUI.FrmSubscription.resources
+X:\מגמות תיכון\תכנות\שנה ג\כיתות ד2 ד3\יעלי מירון\230322\TelOfan\TelOfan\obj\Debug\TelOfan.GUI.FrmWorkers.resources
+X:\מגמות תיכון\תכנות\שנה ג\כיתות ד2 ד3\יעלי מירון\230322\TelOfan\TelOfan\obj\Debug\TelOfan.GUI.MaimPage.resources
+X:\מגמות תיכון\תכנות\שנה ג\כיתות ד2 ד3\יעלי מירון\230322\TelOfan\TelOfan\obj\Debug\TelOfan.Properties.Resources.resources
+X:\מגמות תיכון\תכנות\שנה ג\כיתות ד2 ד3\יעלי מירון\230322\TelOfan\TelOfan\obj\Debug\TelOfan.csproj.GenerateResource.cache
+X:\מגמות תיכון\תכנות\שנה ג\כיתות ד2 ד3\יעלי מירון\230322\TelOfan\TelOfan\obj\Debug\TelOfan.csproj.CoreCompileInputs.cache
+X:\מגמות תיכון\תכנות\שנה ג\כיתות ד2 ד3\יעלי מירון\230322\TelOfan\TelOfan\obj\Debug\TelOfan.exe
+X:\מגמות תיכון\תכנות\שנה ג\כיתות ד2 ד3\יעלי מירון\230322\TelOfan\TelOfan\obj\Debug\TelOfan.pdb
+X:\מגמות תיכון\תכנות\שנה ג\כיתות ד2 ד3\יעלי מירון\230322\TelOfan\TelOfan\obj\Debug\TelOfan.GUI.FrmShowBicycle.resources
+X:\מגמות תיכון\תכנות\שנה ג\כיתות ד2 ד3\יעלי מירון\230322\TelOfan\TelOfan\obj\Debug\TelOfan.GUI.FrmAddBicycle.resources
+C:\Users\User\Downloads\230322\TelOfan\TelOfan\bin\Debug\DAL\TELOFAN.accdb
+C:\Users\User\Downloads\230322\TelOfan\TelOfan\bin\Debug\TelOfan.exe.config
+C:\Users\User\Downloads\230322\TelOfan\TelOfan\bin\Debug\TelOfan.exe
+C:\Users\User\Downloads\230322\TelOfan\TelOfan\bin\Debug\TelOfan.pdb
+C:\Users\User\Downloads\230322\TelOfan\TelOfan\obj\Debug\TelOfan.csprojAssemblyReference.cache
+C:\Users\User\Downloads\230322\TelOfan\TelOfan\obj\Debug\TelOfan.GUI.FrmAddBicycle.resources
+C:\Users\User\Downloads\230322\TelOfan\TelOfan\obj\Debug\TelOfan.GUI.FrmAddOrder.resources
+C:\Users\User\Downloads\230322\TelOfan\TelOfan\obj\Debug\TelOfan.GUI.FrmChooseBicycle.resources
+C:\Users\User\Downloads\230322\TelOfan\TelOfan\obj\Debug\TelOfan.GUI.FrmPayment.resources
+C:\Users\User\Downloads\230322\TelOfan\TelOfan\obj\Debug\TelOfan.GUI.FrmRenting.resources
+C:\Users\User\Downloads\230322\TelOfan\TelOfan\obj\Debug\TelOfan.GUI.FrmShowBicycle.resources
+C:\Users\User\Downloads\230322\TelOfan\TelOfan\obj\Debug\TelOfan.GUI.FrmShowRenting.resources
+C:\Users\User\Downloads\230322\TelOfan\TelOfan\obj\Debug\TelOfan.GUI.FrmSubscription.resources
+C:\Users\User\Downloads\230322\TelOfan\TelOfan\obj\Debug\TelOfan.GUI.FrmWorkers.resources
+C:\Users\User\Downloads\230322\TelOfan\TelOfan\obj\Debug\TelOfan.GUI.MaimPage.resources
+C:\Users\User\Downloads\230322\TelOfan\TelOfan\obj\Debug\TelOfan.Properties.Resources.resources
+C:\Users\User\Downloads\230322\TelOfan\TelOfan\obj\Debug\TelOfan.csproj.GenerateResource.cache
+C:\Users\User\Downloads\230322\TelOfan\TelOfan\obj\Debug\TelOfan.exe
+C:\Users\User\Downloads\230322\TelOfan\TelOfan\obj\Debug\TelOfan.pdb
+C:\Users\User\Downloads\230322\TelOfan\TelOfan\obj\Debug\TelOfan.GUI.FrmShowSub.resources
+C:\Users\User\Downloads\2703\TelOfan\TelOfan\bin\Debug\DAL\TELOFAN.accdb
+C:\Users\User\Downloads\2703\TelOfan\TelOfan\bin\Debug\TelOfan.exe.config
+C:\Users\User\Downloads\2703\TelOfan\TelOfan\bin\Debug\TelOfan.exe
+C:\Users\User\Downloads\2703\TelOfan\TelOfan\bin\Debug\TelOfan.pdb
+C:\Users\User\Downloads\2703\TelOfan\TelOfan\obj\Debug\TelOfan.csprojAssemblyReference.cache
+C:\Users\User\Downloads\2703\TelOfan\TelOfan\obj\Debug\TelOfan.GUI.FrmAddBicycle.resources
+C:\Users\User\Downloads\2703\TelOfan\TelOfan\obj\Debug\TelOfan.GUI.FrmAddOrder.resources
+C:\Users\User\Downloads\2703\TelOfan\TelOfan\obj\Debug\TelOfan.GUI.FrmPayment.resources
+C:\Users\User\Downloads\2703\TelOfan\TelOfan\obj\Debug\TelOfan.GUI.FrmRenting.resources
+C:\Users\User\Downloads\2703\TelOfan\TelOfan\obj\Debug\TelOfan.GUI.FrmShowBicycle.resources
+C:\Users\User\Downloads\2703\TelOfan\TelOfan\obj\Debug\TelOfan.GUI.FrmShowRenting.resources
+C:\Users\User\Downloads\2703\TelOfan\TelOfan\obj\Debug\TelOfan.GUI.FrmShowSub.resources
+C:\Users\User\Downloads\2703\TelOfan\TelOfan\obj\Debug\TelOfan.GUI.FrmSubscription.resources
+C:\Users\User\Downloads\2703\TelOfan\TelOfan\obj\Debug\TelOfan.GUI.FrmWorkers.resources
+C:\Users\User\Downloads\2703\TelOfan\TelOfan\obj\Debug\TelOfan.GUI.MaimPage.resources
+C:\Users\User\Downloads\2703\TelOfan\TelOfan\obj\Debug\TelOfan.Properties.Resources.resources
+C:\Users\User\Downloads\2703\TelOfan\TelOfan\obj\Debug\TelOfan.csproj.GenerateResource.cache
+C:\Users\User\Downloads\2703\TelOfan\TelOfan\obj\Debug\TelOfan.exe
+C:\Users\User\Downloads\2703\TelOfan\TelOfan\obj\Debug\TelOfan.pdb
+C:\Users\User\Downloads\2703\TelOfan\TelOfan\obj\Debug\TelOfan.GUI.FrmBicycleState.resources
+C:\Users\User\Downloads\2703\TelOfan\TelOfan\obj\Debug\TelOfan.GUI.FrmShowAllDebts.resources

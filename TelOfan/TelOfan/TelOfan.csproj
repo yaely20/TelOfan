@@ -1,0 +1,228 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{36EC6D48-F4E0-46EE-A7C6-F12718B48C32}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>TelOfan</RootNamespace>
+    <AssemblyName>TelOfan</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>x64</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System">
+      <HintPath>C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.7.2\System.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BLL\Bicycle.cs" />
+    <Compile Include="BLL\BicycleCondition.cs" />
+    <Compile Include="BLL\BicycleConditionTable.cs" />
+    <Compile Include="BLL\BicycleTable.cs" />
+    <Compile Include="BLL\Cities.cs" />
+    <Compile Include="BLL\CitiesTable.cs" />
+    <Compile Include="BLL\GeneralRow.cs" />
+    <Compile Include="BLL\GeneralTable.cs" />
+    <Compile Include="BLL\Moked.cs" />
+    <Compile Include="BLL\MokedOfBicycle.cs" />
+    <Compile Include="BLL\MokedOfBicycleTable.cs" />
+    <Compile Include="BLL\MokedTable.cs" />
+    <Compile Include="BLL\MyDB.cs" />
+    <Compile Include="BLL\Payments.cs" />
+    <Compile Include="BLL\PaymentsTable.cs" />
+    <Compile Include="BLL\Renting.cs" />
+    <Compile Include="BLL\RentingTable.cs" />
+    <Compile Include="BLL\Subscription.cs" />
+    <Compile Include="BLL\SubscriptionTable.cs" />
+    <Compile Include="BLL\ThisSubscription.cs" />
+    <Compile Include="BLL\Validetion.cs" />
+    <Compile Include="BLL\Workers.cs" />
+    <Compile Include="BLL\WorkersTable.cs" />
+    <Compile Include="DAL\Connect.cs" />
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\FrmAddBicycle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\FrmAddBicycle.Designer.cs">
+      <DependentUpon>FrmAddBicycle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\FrmAddOrder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\FrmAddOrder.Designer.cs">
+      <DependentUpon>FrmAddOrder.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\FrmAddsub.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\FrmAddsub.Designer.cs">
+      <DependentUpon>FrmAddsub.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\FrmBicycleState.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\FrmBicycleState.Designer.cs">
+      <DependentUpon>FrmBicycleState.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\FrmPayment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\FrmPayment.Designer.cs">
+      <DependentUpon>FrmPayment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\FrmRenting.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\FrmRenting.Designer.cs">
+      <DependentUpon>FrmRenting.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\FrmShowAllDebts.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\FrmShowAllDebts.Designer.cs">
+      <DependentUpon>FrmShowAllDebts.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\FrmShowBicycle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\FrmShowBicycle.Designer.cs">
+      <DependentUpon>FrmShowBicycle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\FrmShowRenting.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\FrmShowRenting.Designer.cs">
+      <DependentUpon>FrmShowRenting.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\FrmShowSub.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\FrmShowSub.Designer.cs">
+      <DependentUpon>FrmShowSub.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\FrmSubscription.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\FrmSubscription.Designer.cs">
+      <DependentUpon>FrmSubscription.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\FrmWorkers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\FrmWorkers.Designer.cs">
+      <DependentUpon>FrmWorkers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\MaimPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\MaimPage.Designer.cs">
+      <DependentUpon>MaimPage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="GUI\FrmAddBicycle.resx">
+      <DependentUpon>FrmAddBicycle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\FrmAddOrder.resx">
+      <DependentUpon>FrmAddOrder.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\FrmBicycleState.resx">
+      <DependentUpon>FrmBicycleState.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\FrmPayment.resx">
+      <DependentUpon>FrmPayment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\FrmRenting.resx">
+      <DependentUpon>FrmRenting.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\FrmShowAllDebts.resx">
+      <DependentUpon>FrmShowAllDebts.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\FrmShowBicycle.resx">
+      <DependentUpon>FrmShowBicycle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\FrmShowRenting.resx">
+      <DependentUpon>FrmShowRenting.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\FrmShowSub.resx">
+      <DependentUpon>FrmShowSub.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\FrmSubscription.resx">
+      <DependentUpon>FrmSubscription.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\FrmWorkers.resx">
+      <DependentUpon>FrmWorkers.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\MaimPage.resx">
+      <DependentUpon>MaimPage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="DAL\TELOFAN.accdb">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="resources\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
